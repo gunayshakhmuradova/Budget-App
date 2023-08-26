@@ -1,2 +1,1 @@
-# Budget-app
-This app create with React.js.
+# coding-project-template
